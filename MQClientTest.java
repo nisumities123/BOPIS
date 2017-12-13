@@ -22,6 +22,7 @@ public class MQClientTest {
 	// Create a default local queue.
 	MQQueue defaultLocalQueue;
 	MQQueueManager qManager;
+	int a_modified;
 
 	/**
 	 * Initialize the MQ
